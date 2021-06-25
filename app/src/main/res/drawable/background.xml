@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:width="375dp"
+    android:height="812dp"
+    android:viewportWidth="375"
+    android:viewportHeight="812"
+    tools:ignore="VectorRaster">
+
+    <path
+        android:fillColor="url(#paint0_radial)"
+        android:pathData="M0,539 C74.5584,539,135,599.442,135,674 C135,748.558,74.5584,809,0,809 C-74.5584,809,-135,748.558,-135,674 C-135,599.442,-74.5584,539,0,539 Z" />
+    <path
+        android:fillColor="url(#paint1_radial)"
+        android:pathData="M375,548 C421.944,548,460,586.056,460,633 C460,679.944,421.944,718,375,718 C328.056,718,290,679.944,290,633 C290,586.056,328.056,548,375,548 Z" />
+    <path
+        android:fillColor="url(#paint2_radial)"
+        android:pathData="M0,-9 C46.9442,-9,85,29.0558,85,76 C85,122.944,46.9442,161,0,161 C-46.9442,161,-85,122.944,-85,76 C-85,29.0558,-46.9442,-9,0,-9 Z" />
+</vector>
